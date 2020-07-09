@@ -27,8 +27,8 @@ export default {
   },
   router: {
     base: '/first_nuxt/'
-  }
-  
+  },
+
   /*
   ** Global CSS
   */

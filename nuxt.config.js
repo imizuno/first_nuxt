@@ -25,6 +25,10 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/first_nuxt/favicon.ico' }
     ]
   },
+  router: {
+    base: '/first_nuxt/'
+  }
+  
   /*
   ** Global CSS
   */
